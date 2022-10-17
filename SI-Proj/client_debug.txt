@@ -1,0 +1,673 @@
+Building Level: 0, Current resources: 500
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 700
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 900
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 1100
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 200
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 400
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 600
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 800
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 1000
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 1200
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 300
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 500
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 700
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 900
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 1100
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 200
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 400
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 600
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 800
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 1000
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 1200
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 300
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 500
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 700
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 900
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 0, Current resources: 2100
+Current production per turn is: 200
+Current building cost is: 500
+Building Level: 1, Current resources: 3740
+Current production per turn is: 240
+Current building cost is: 700
+Building Level: 2, Current resources: 728
+Current production per turn is: 288
+Current building cost is: 979
+Building Level: 2, Current resources: 1416
+Current production per turn is: 288
+Current building cost is: 979
+Building Level: 2, Current resources: 1004
+Current production per turn is: 288
+Current building cost is: 979
+Building Level: 2, Current resources: 3292
+Current production per turn is: 288
+Current building cost is: 979
+Building Level: 3, Current resources: 1558
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 803
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 2448
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 1693
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 938
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 1283
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 1628
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 873
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 2318
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 1563
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 808
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 1153
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 1498
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 743
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 1088
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 3, Current resources: 2533
+Current production per turn is: 345
+Current building cost is: 1371
+Building Level: 4, Current resources: 476
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 1990
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 1304
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 618
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 1032
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 2346
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 1660
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 2074
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 1388
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 702
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 2216
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 1530
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 1944
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 4, Current resources: 3458
+Current production per turn is: 414
+Current building cost is: 1920
+Building Level: 5, Current resources: 2035
+Current production per turn is: 497
+Current building cost is: 2689
+Building Level: 5, Current resources: 2532
+Current production per turn is: 497
+Current building cost is: 2689
+Building Level: 5, Current resources: 3029
+Current production per turn is: 497
+Current building cost is: 2689
+Building Level: 5, Current resources: 926
+Current production per turn is: 497
+Current building cost is: 2689
+Building Level: 5, Current resources: 2523
+Current production per turn is: 497
+Current building cost is: 2689
+Building Level: 5, Current resources: 4120
+Current production per turn is: 497
+Current building cost is: 2689
+Building Level: 6, Current resources: 2028
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2625
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 622
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 3419
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1616
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1113
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2910
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 3107
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1104
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2801
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2998
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 995
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1592
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2289
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1786
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 3483
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2580
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 3177
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2274
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2871
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1968
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1465
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 962
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 4359
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2356
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2053
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2650
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1747
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1244
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2941
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2938
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 4235
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 3332
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 3629
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 3626
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 1623
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 2220
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 4117
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 3814
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 4011
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 4208
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 4405
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 6, Current resources: 6602
+Current production per turn is: 597
+Current building cost is: 3764
+Building Level: 7, Current resources: 3154
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3670
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 1786
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3602
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3918
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3134
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3450
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3766
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 4082
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3298
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3614
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 2830
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 3146
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 1762
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 5578
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 6094
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 7, Current resources: 6410
+Current production per turn is: 716
+Current building cost is: 5270
+Building Level: 8, Current resources: 1999
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 3958
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 4417
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 4876
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 4235
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 4694
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 5153
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 5612
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 6071
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 6530
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 6089
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 5448
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 4807
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 4166
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 4625
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 3984
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 8, Current resources: 10843
+Current production per turn is: 859
+Current building cost is: 7378
+Building Level: 9, Current resources: 4096
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 4727
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 5358
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 5989
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 5520
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 6151
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 5682
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 5213
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 4744
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 5375
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 8006
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 8637
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 8368
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 8999
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 9630
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 9161
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 8692
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 8223
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 11154
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 10885
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 9, Current resources: 11516
+Current production per turn is: 1031
+Current building cost is: 10330
+Building Level: 10, Current resources: 3524
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 5462
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3700
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2338
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2376
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2414
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3452
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3490
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2428
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3466
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3504
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 7642
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3680
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3518
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2356
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3494
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2432
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2370
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3508
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2346
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 4384
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3722
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 5460
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 1498
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3536
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3474
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 4412
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2550
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2388
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 4326
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3664
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3502
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3440
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3478
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 1316
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 1254
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 1292
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 12330
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 13868
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 6906
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 6244
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 11382
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 2620
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 8058
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3596
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 20434
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 4072
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 1310
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 12648
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 4086
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 7124
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 7062
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 7400
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 3438
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 12676
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 1714
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 24852
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 7290
+Current production per turn is: 1238
+Current building cost is: 14462
+Building Level: 10, Current resources: 1328
+Current production per turn is: 1238
+Current building cost is: 14462
+ERROR
